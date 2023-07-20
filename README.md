@@ -1,0 +1,10 @@
+- Arquitetura de Software
+- Padrões arquiteturais como Clean Architecture
+- Services, Entidades, Repositórios
+- Módulos
+- Domain Model
+- Camadas
+- Repositórios
+- Services
+- Interface com usuário
+- Casos de uso
